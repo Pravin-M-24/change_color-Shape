@@ -11,7 +11,7 @@ let color =[
     "lemon"
 ];
 let classLst = [
-    "triangle","traiangle-up","triangle-down","rectangle","circle_inner","trapezoid",
+    "triangle","triangle-up","triangle-down","rectangle","circle_inner","trapezoid", "diamond"
 ]
 // let cg =  document.getElementById("circle_bg");
   function changeColor(){
